@@ -12,5 +12,5 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 Here are the data for the project: 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-For convenience, it is assumed that the zip file is downloaded on local directory for the script file to work on it. It's not necessary to unzip the file, the run_analysis will run with the zipfile name as argument(Default file name will be HARDataset).
+For convenience, it is assumed that the zip file is downloaded on local directory for the script file to work on it. It's not needed to unzip the file, the run_analysis will run with the zipfile name as argument(Default file name will be HARDataset.zip). For example, to run the script on XXXX.zip on current directory, just type run_analysis("XXXX.zip") at the command prompt in R.
 Just simply provide the zipfile name and directory location, the script file will generate the tidy dataset , and will create the tidy_data.txt file at the end.

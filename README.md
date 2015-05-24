@@ -1,2 +1,4 @@
 # GettingAndCleaningData
-Assignments for GettingAndCleaningData Course
+Course Project for GettingAndCleaningData Course
+
+
